@@ -1,0 +1,8 @@
+
+#ZoomCard{
+    transition: all 0.3s;
+}
+
+#ZoomCard:hover{
+    transform: scale(1.05);
+}
